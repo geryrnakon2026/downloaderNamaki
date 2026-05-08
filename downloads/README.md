@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [RVC1006AMD_Intel](./RVC1006AMD_Intel)
 - [ba44afe5d09b191f2798723dd2792756c84c9f62](./ba44afe5d09b191f2798723dd2792756c84c9f62)
 
 ---
